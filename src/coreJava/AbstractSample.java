@@ -6,7 +6,7 @@ public abstract class AbstractSample {
 	public abstract void Company();
 	protected void Designation()
 	{
-		System.out.println("Am a SDET");
+		System.out.println("Am a learner first, SDET then");
 	}
 	
 }
