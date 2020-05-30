@@ -1,2 +1,2 @@
-# learning
+# JavaConcepts
 Learn GitHub - Test commit
